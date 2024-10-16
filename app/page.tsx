@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 import "./page.css"
 import { SearchSection } from "./Components/SearchSection";
